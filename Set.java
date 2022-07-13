@@ -1,7 +1,7 @@
 import java.util.HashSet;
 
 public class Set{
-    //set123
+    //set
 
     public static void main(String[] args) {
         HashSet<Integer> myHashSet = new HashSet<>();
